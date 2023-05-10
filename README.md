@@ -16,8 +16,8 @@
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
   <br/>
   ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/nodejs-green.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-orange.svg?style=for-the-badge&logo=jupyternotebook&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkmingue00&layout=compact"><br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmingue00&show_icons=true&theme=transparent)
