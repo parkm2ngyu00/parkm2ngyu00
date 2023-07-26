@@ -20,6 +20,8 @@
   ##### DA/DS/DE
   ![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/sckikitlearn-green.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <br/>
   ![Power BI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
   ![Tableau](https://img.shields.io/badge/tableau-blue.svg?style=for-the-badge&logo=tableau&logoColor=white)
   <br/><br/>
