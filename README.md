@@ -19,8 +19,8 @@
   ![NodeJS](https://img.shields.io/badge/node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkmingue00&layout=compact"><br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmingue00&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkm2ngyu00&layout=compact"><br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkm2ngyu00&show_icons=true&theme=transparent)
   
 </div>
 
