@@ -19,6 +19,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ##### DA/DS/DE
   ![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![KERAS](https://img.shields.io/badge/keras-red.svg?style=for-the-badge&logo=keras&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/sckikitlearn-green.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
   <br/>
