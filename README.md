@@ -26,8 +26,10 @@
   ![Power BI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
   ![Tableau](https://img.shields.io/badge/tableau-blue.svg?style=for-the-badge&logo=tableau&logoColor=white)
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkm2ngyu00&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkm2ngyu00&layout=compact" height="195px">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkm2ngyu00&show_icons=true&theme=transparent)
+  <br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkm2ngyu00)](https://solved.ac/parkm2ngyu00/)
   
 </div>
 
